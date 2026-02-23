@@ -41,8 +41,8 @@ class Bot(BaseBot):
 
     async def run(self, room_id, token):
         await __main__.main(self, room_id, token)
-
-
+                    
+def main(self, room_id, token):        
 if __name__ == "__main__":
     room_id = authorization.room
     token = authorization.token
