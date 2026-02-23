@@ -1,3 +1,3 @@
-highrise-bot-sdk==23.1.0b10
+highrise-bot-sdk==24.1.0
 setuptools>=69.0.0
 wheel
