@@ -40,9 +40,9 @@ class Bot(BaseBot):
         await handle_movements(self, user, destination)
 
     async def run(self, room_id, token):
-        await __main__.main(room_id, token)        
+        await __main__.main_nueva(room_id, token)     
                     
-def main(room_id, token):
+def main_nueva(room_id, token):
     pass
 if __name__ == "__main__":
     room_id = authorization.room
