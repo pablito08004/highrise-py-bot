@@ -1,5 +1,6 @@
 highrise-bot-sdk==24.1.0
-setuptools>=69.0.0
+setuptools==68.0.0
 wheel
 pip>=24.0
 build
+pkg-resources==0.0.0
